@@ -6,7 +6,7 @@
 [![Release](https://img.shields.io/github/v/release/yyuueexxiinngg/onebot-kotlin?include_prereleases)](https://github.com/yyuueexxiinngg/onebot-kotlin/releases)
 [![Downloads @latest](https://img.shields.io/github/downloads-pre/yyuueexxiinngg/onebot-kotlin/latest/total)](https://github.com/yyuueexxiinngg/onebot-kotlin/releases)
 
-__[OneBot标准](https://github.com/howmanybots/onebot) mirai 插件版 *(原cqhttp-mirai)*__
+__[OneBot标准](https://github.com/howmanybots/onebot) mirai 插件版 
 
 ### 开始使用
 0. 请首先运行[mirai-console](https://github.com/mamoe/mirai-console)相关客户端生成plugins文件夹
